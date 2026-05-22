@@ -1,0 +1,22 @@
+# ИИ-ассистенты (Claude Code, Gemini, Antigravity)
+.claude/
+.agent/
+CLAUDE.md
+AGENTS.md
+task.md
+implementation_plan.md
+walkthrough.md
+
+# Локальные системные файлы и кэш
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Локальные настройки редакторов
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
