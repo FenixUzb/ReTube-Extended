@@ -22,7 +22,7 @@
     *   [Tampermonkey для Chrome / Edge / Opera / Firefox](https://www.tampermonkey.net/)
     *   [Violentmonkey](https://violentmonkey.github.io/)
 2.  Откройте прямую ссылку на скрипт:
-    *   *Укажите здесь прямую ссылку на файл после загрузки на GitHub (например, `https://github.com/FenixUzb/ReTube-Extended/blob/main/ReTube%20Extended.js`)*
+    *   **[Установить ReTube Extended](https://raw.githubusercontent.com/FenixUzb/ReTube-Extended/main/ReTube%20Extended.js)** (кликните, чтобы открыть установщик расширения)
 3.  Нажмите кнопку **Установить** (Install) в открывшемся окне расширения.
 
 ---
